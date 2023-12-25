@@ -1,0 +1,13 @@
+---
+title: "Hotel Booking Analysis"
+author: "Rohit"
+date: "2023-12-22"
+output: html_document
+---
+## Setting up the environment
+Note: We are setting up the environment by loading the 'tidyverse' and 'palmer penguins' packages
+```{r loading packages}
+library(tidyverse)
+library(palmerpenguins)
+```
+

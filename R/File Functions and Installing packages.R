@@ -1,0 +1,12 @@
+install.packages("tidyverse")
+library(tidyverse) 
+library(lubridate)
+?print()
+first_variable <- "This is my Example"
+today()
+library(tidyverse)
+library(lubridate)
+install.packages("lubridate")
+dir.create("desti")
+file.create ("new_text_file.txt")
+file.copy ("new_text_file.txt" , "desti")
